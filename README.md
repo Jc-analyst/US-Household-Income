@@ -2,7 +2,7 @@
 ![Data Formats](https://img.shields.io/badge/Data-CSV%20%7C%20JSON%20%7C%20XLS-green?style=flat-square)
 ![Status](https://img.shields.io/badge/Status-Completed-brightgreen?style=flat-square)
 ![License](https://img.shields.io/badge/License-MIT-lightgrey?style=flat-square)
-![GitHub last commit](https://img.shields.io/github/last-commit/your-username/your-repo-name?style=flat-square)
+![GitHub last commit](https://img.shields.io/github/last-commit/Jc-analyst/US-Household-Income?style=flat-square)
 
 
 # 🏡 U.S. Household Income Analysis
